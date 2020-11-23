@@ -4,6 +4,12 @@
 
 
 [![panbak's github stats](https://github-readme-stats.vercel.app/api?username=panbak&show_icons=true&icon_color=4f46e5&title_color=4f46e5&custom_title=My%20Github%20Stats&include_all_commits=true&hide_border=true&hide_rank=true)](https://github.com/panbak/) [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=panbak&hide_border=true)](https://wakatime.com/@panbak)
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=panbak&show_icons=true&icon_color=4f46e5&title_color=4f46e5&custom_title=My%20Github%20Stats&include_all_commits=true&hide_border=true&hide_rank=true">  
+  
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=panbak&hide_border=true">  
+</p>
 <!--
 
 
