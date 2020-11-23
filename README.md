@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/panbak/" target="_blank"> <img src="https://github.com/panbak/panbak/blob/master/linkedin.png?raw=true"> </a>
-  <a href="https://facebook.com/panbak" target="_blank"> <img src="https://github.com/panbak/panbak/blob/master/facebook.png?raw=true"> </a>
-  <a href="https://stackoverflow.com/users/12283299/panbak" target="_blank"> <img src="https://github.com/panbak/panbak/blob/master/stack-overflow.png?raw=true"> </a>
-  <a href="https://instagram.com/panbak_" target="_blank"> <img src="https://github.com/panbak/panbak/blob/master/instagram.png?raw=true"> </a>
+  <a href="https://www.linkedin.com/in/panbak/" target="_blank" style="margin: 5px;"> <img src="https://github.com/panbak/panbak/blob/master/linkedin.png?raw=true"> </a>
+  <a href="https://facebook.com/panbak" target="_blank" style="margin: 5px;"> <img src="https://github.com/panbak/panbak/blob/master/facebook.png?raw=true"> </a>
+  <a href="https://stackoverflow.com/users/12283299/panbak" target="_blank" style="margin: 5px;"> <img src="https://github.com/panbak/panbak/blob/master/stack-overflow.png?raw=true"> </a>
+  <a href="https://instagram.com/panbak_" target="_blank" style="margin: 5px;"> <img src="https://github.com/panbak/panbak/blob/master/instagram.png?raw=true"> </a>
 </p>
